@@ -2,7 +2,7 @@
 
 module.exports = {
   port: 10000,
-  url: 'mongodb://localhost:20086/elm',
+  url: 'mongodb://localhost:20086',
   session: {
     name: 'SID',
     secret: 'SID',
