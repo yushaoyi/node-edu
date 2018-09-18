@@ -2,7 +2,7 @@
 
 module.exports = {
   port: 10000,
-  url: 'mongodb://localhost:20086/elm',
+  url: 'mongodb://xigua2:84986987@140.143.228.82:20086/test',
   session: {
     name: 'SID',
     secret: 'SID',
